@@ -36,3 +36,13 @@
 
 ```bash
 git clone https://github.com/JinghanHuang11/cima-resources.git
+
+📝 文件类型说明
+📄 PDF: 学习指南、讲义、笔记
+📊 PPT: 教学课件、演示文稿
+📈 Excel: 习题集、模板、财务模型
+📝 Word: 课程笔记、考试指南
+🔄 更新日志
+2024-01: 创建仓库，添加初始结构
+持续更新中...
+© 2024 Jinghan Huang. 所有资料免费分享。
